@@ -4,7 +4,7 @@ A comprehensive Unicode character library for Rust applications, particularly us
 
 [![Crates.io](https://img.shields.io/crates/v/unicode-rs.svg)](https://crates.io/crates/unicode-rs)
 [![Downloads](https://img.shields.io/crates/d/unicode-rs.svg)](https://crates.io/crates/unicode-rs)
-[![GitHub Stars](https://img.shields.io/github/stars/entrenepeur4lyf/unicode-rs.svg)](https://github.com/entrepeneur4lyf/unicode-rs/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/entrepeneur4lyf/unicode-rs)](https://github.com/entrepeneur4lyf/unicode-rs/stargazers)
 [![Documentation](https://docs.rs/unicode-rs/badge.svg)](https://docs.rs/unicode-rs)
 [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE-MIT)
 [![Rust Version](https://img.shields.io/badge/rust-1.70+-blue.svg)](https://www.rust-lang.org)
