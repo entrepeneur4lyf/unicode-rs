@@ -1,0 +1,20 @@
+[package]
+name = "unicode-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shawn McAllister <founder@engineered4ai.com>"]
+description = "A comprehensive Unicode character library for Rust applications with theme support"
+documentation = "https://docs.rs/unicode-rs"
+homepage = "https://github.com/entrepeneur4lyf/unicode-rs"
+repository = "https://github.com/entrepeneur4lyf/unicode-rs"
+license = "MIT"
+keywords = ["unicode", "symbols", "terminal", "cli", "editor"]
+categories = ["text-processing", "command-line-utilities", "development-tools"]
+readme = "README.md"
+exclude = [
+    "target/*",
+    ".git/*",
+    ".gitignore",
+]
+
+[dependencies]
